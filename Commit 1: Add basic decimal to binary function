@@ -1,0 +1,6 @@
+What changed:
+Added a function to convert a decimal number to binary.
+Tested it with simple numbers like 5 → 101.
+Example commit message:
+Added decimalToBinary function to convert decimal numbers to binary
+Example: 5 -> 101
