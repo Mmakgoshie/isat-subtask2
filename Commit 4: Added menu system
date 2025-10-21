@@ -1,0 +1,7 @@
+What changed:
+Created a menu for the user to choose conversion types
+Added options 1–6 (decimal, binary, hexadecimal, demo, exit)
+Allows user input to select conversions
+Example commit message:
+Added interactive menu for number conversions
+User can select decimal, binary, hexadecimal, demo, or exit
