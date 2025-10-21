@@ -1,0 +1,7 @@
+What changed:
+Added decimalToHexadecimal function (decimal → hex)
+Added hexadecimalToDecimal function (hex → decimal)
+Tested examples: 255 → FF, FF → 255
+Example commit message:
+Added decimalToHexadecimal and hexadecimalToDecimal functions
+Example: 255 -> FF, FF -> 255
