@@ -1,0 +1,7 @@
+What changed:
+Added option to generate a random number and convert it to binary
+Used rand() % 100 to pick numbers from 0–99
+Shows result to the user
+Example commit message:
+Added demo feature to generate random decimal and convert to binary
+Example: Random 42 -> 101010
